@@ -65,10 +65,10 @@
 ![](attachment/string-command.png)
 - 双向链表类型对应`HashMap<String,LinkedList<String>>`
 
-![|296](attachment/linkedlist-command.png)
+![](attachment/linkedlist-command.png)
 - 哈希类型对应`HashMap<String,HashMap<String,String>`
 
-![|299](attachment/hashmap-command.png)
+![](attachment/hashmap-command.png)
 - 其它指令
 	- `help`
 
