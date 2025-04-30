@@ -12,7 +12,7 @@
 
 文档中包含 Java，C/C++，go三个方向的推荐网课，学习资料，发展路径等相关内容
 
-- [direction-introduction](direction-introduction)
+- [direction-introduction](direction-introduction.md)
 
 ## 考核说明
 
